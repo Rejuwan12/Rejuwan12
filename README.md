@@ -6,13 +6,9 @@
 <div style="text-align: center;">
   <p>
     <!-- Heading with emoji indicating what you are learning -->
-    ###🌱 I’m currently learning <strong>Node Js & Express Js</strong>
-    
-    <!-- Topics you can be asked about -->
-    ###💬 Ask me about <strong>react, javaScript, HTML, Css etc.</strong>
-    
-    <!-- Contact information -->
-    ###📫 How to reach me <strong>rezwanrian1@gmail.com</strong>
+    🌱 I’m currently learning <strong>Node Js & Express Js</strong>
+    💬 Ask me about <strong>react, javaScript, HTML, Css etc.</strong
+    📫 How to reach me <strong>rezwanrian1@gmail.com</strong>
   </p>
   
   <!-- Image related to coding, centered and with a specified width -->
