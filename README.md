@@ -1,4 +1,4 @@
-<img width="100%"  style="align-items: right;" src="https://i.ibb.co/YbmmLL3/git.png">
+<img width="100%"  style="align-items: right;" src="https://i.ibb.co/YbmmLL3/git.png](https://raw.githubusercontent.com/Rejuwan12/Rejuwan12/main/git.png)">
 
 
 
