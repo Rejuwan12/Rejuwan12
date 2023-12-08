@@ -1,4 +1,6 @@
-![Web Develpoer](https://i.ibb.co/k1m8JzF/github.png)
+<img width="100%"  style="align-items: right;" src="https://i.ibb.co/YbmmLL3/git.png">
+
+
 
 <h1 align="center">Hi 👋, I'm Rejuwan Islam Rian</h1>
 
@@ -17,15 +19,30 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejuwan12&show_icons=true&locale=en&layout=compact" alt="rejuwan12" /></p>
+<p align="center">
+  <a href="https://github.com/Rejuwan12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rejuwan12&theme=radical&border=E3651D&background=121212" alt="Rejuwan Isla,"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejuwan12&show_icons=true&locale=en" alt="rejuwan12" /></p>
+<div>
+  <a href="https://github.com/Rejuwan12">
+    <img alt="Rejuwan12" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rejuwan12&show_icons=true&count_private=true&theme=react&border_color=E3651D&bg_color=121212&title_color=E3651D&icon_color=E3651D" height="192px" width="49.5%" />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejuwan12&" alt="rejuwan12" /></p>
+  <a href="https://github.com/Rejuwan12">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rejuwan12&langs_count=8&layout=compact&theme=react&border_color=E3651D&bg_color=121212&title_color=E3651D&icon_color=E3651D" height="192px" width="49.5%" />
+  </a>
+</div>
 
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rejuwan-islam-rian-33a722296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rejuwan-islam-rian-33a722296/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100093538819042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093538819042" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc5u47mjbwrbnurlgsvzqrfq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5u47mjbwrbnurlgsvzqrfq" height="30" width="40" /></a>
 </p>
+
+<p align="right" > Created by <a href="https://github.com/Rony-Ahmed6245">Rejuwan Islam Rian</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=Rejuwan12&label=Profile%20views&color=0e75b6&style=flat" alt="Rejuwan12" /> </p>
+
