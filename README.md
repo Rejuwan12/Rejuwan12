@@ -12,7 +12,7 @@
   </p>
   
   <!-- Image related to coding, centered and with a specified width -->
-  <img style="display: block; margin: 0 auto;" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+
 </div>
  
 
