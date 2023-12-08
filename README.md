@@ -1,17 +1,19 @@
 ![Web Develpoer](https://i.ibb.co/k1m8JzF/github.png)
 
 <h1 align="center">Hi 👋, I'm Rejuwan Islam Rian</h1>
-<h3 align="center">A junior frontend web developer from Bangladesh.I am currently learning this web development and also looking for jobs in different companies. I complete a project with great care. And I also think that in the company that I will work for, I will definitely do my best and take the company forward. thank you</h3>
-  <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"
+<img align="center" alt="coading" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"
  ><img/>
  
 <p>
-- 🌱 I’m currently learning **Node Js & Express Js**
-
+  <p>
+ - 🌱 I’m currently learning **Node Js & Express Js**
 - 💬 Ask me about **react, javaScript,HTML, Css etc.**
-
 - 📫 How to reach me **rezwanrian1@gmail.com**
+  <p/>
+ <img align="center" alt="coading" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"
+ ><img/>
  </p>
+ 
 
 
 
