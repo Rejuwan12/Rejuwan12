@@ -2,20 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Rejuwan Islam Rian</h1>
 
-    🌱 I’m currently learning <strong>Node Js & Express Js
+
+🌱 I’m currently learning <strong>Node Js & Express Js
     
-    💬 Ask me about <strong>react, javaScript, HTML, Css etc.
-    
-    📫 How to reach me <strong>rezwanrian1@gmail.com
+💬 Ask me about <strong>react, javaScript, HTML, Css etc.
+
+📫 How to reach me <strong>rezwanrian1@gmail.com
   
-  
- 
-
-
- 
-
-
-
 
 <hr/>
 
