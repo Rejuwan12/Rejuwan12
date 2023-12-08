@@ -2,18 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Rejuwan Islam Rian</h1>
 
- 
-<div style="text-align: center;">
-  <p>
-    <!-- Heading with emoji indicating what you are learning -->
-    🌱 I’m currently learning <strong>Node Js & Express Js</strong>
-    💬 Ask me about <strong>react, javaScript, HTML, Css etc.</strong
-    📫 How to reach me <strong>rezwanrian1@gmail.com</strong>
-  </p>
+    🌱 I’m currently learning <strong>Node Js & Express Js
+    
+    💬 Ask me about <strong>react, javaScript, HTML, Css etc.
+    
+    📫 How to reach me <strong>rezwanrian1@gmail.com
   
-  <!-- Image related to coding, centered and with a specified width -->
+  
+ 
 
-</div>
+
  
 
 
