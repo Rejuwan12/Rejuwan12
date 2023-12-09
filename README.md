@@ -39,7 +39,9 @@
 
 
 <div align="center"style="margin-top: 20px">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rejuwan12&langs_count=8&layout=compact&theme=react&border_color=E3651D&bg_color=121212&title_color=E3651D&icon_color=E3651D" alt="Profile Details" />
+    <br/>
+    
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rejuwan12&theme=slateorange)
 </div>
 <hr/>
 <h3 align="left">Connect with me:</h3>
