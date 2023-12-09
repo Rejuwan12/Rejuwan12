@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Rejuwan Islam Rian</h1>
+ <h3 align="c">  As a junior MERN stack developer, I specialize in crafting dynamic and user-centric web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, I contribute to the development of efficient and scalable solutions. My work involves translating ideas into code, creating seamless user interfaces, and collaborating with cross-functional teams. I am dedicated to continuous learning, staying abreast of industry trends, and delivering innovative solutions that enhance the digital experience. With a passion for problem-solving and a commitment to excellence, I am poised to contribute meaningfully to the world of web development   </h3>
 
+ <hr/>
 
 🌱 I’m currently learning <strong>Node Js & Express Js
     
